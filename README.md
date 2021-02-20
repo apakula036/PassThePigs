@@ -1,3 +1,2 @@
 # PassThePigsVanilla
-Building a pass the pigs webpage.
-Testing new line
+Pass the pigs webpage to help keep track of scoring for players. 
